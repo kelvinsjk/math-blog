@@ -6,14 +6,14 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "text": "Math Atlas",
+      "url": "https://math-atlas.vercel.app",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "3D Vectors",
+      "url": "https://3d-vectors.vercel.app",
+      "external": true
     }
   ]
 }
